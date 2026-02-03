@@ -44,10 +44,13 @@ cd project-root
 2. Install dependencies:
 Frontend:
 ```
+cd frontend
 npm install
 ```
 Backend:
 ```
+cd ..
+cd backend
 npm install
 ```
 
